@@ -10,7 +10,7 @@ public class GenericMethodExample {
         // Integer array
         Integer[] intArray = {1, 2, 3, 4, 5};
         // String array
-        String[] stringArray = {"sharz", "dhali"};
+        String[] stringArray = {"hi", "there"};
 
         // Call generic method with Integer array
         printArray(intArray);
