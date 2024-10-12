@@ -6,7 +6,7 @@ public class HashMapExample {
         HashMap<String, String> capitalCities = new HashMap<>();
 
         // Add key-value pairs
-        capitalCities.put("Uganda","Kampala");
+        capitalCities.put("Tanzania","Dar-es-salaam");
         capitalCities.put("Kenya", "Nairobi");
         capitalCities.put("Rwanda", "Kigali");
         capitalCities.put("Congo", "Kinshasha");
